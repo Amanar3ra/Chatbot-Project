@@ -5,7 +5,6 @@
   - usually node comes with npm, if so, use `npm install pnpm`
   
 ## Steps to setup
-- Clone this repository using <br>`git clone https://github.com/Nisarg851/HumberChatbot.git`
 - Move into project folder
 - run `pnpm install` to install all the required dependencies.
 - run `pnpm run dev` to run the application in developer mode.

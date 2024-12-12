@@ -3,7 +3,6 @@
 - [git](https://git-scm.com/downloads)
   
 ## Steps to setup
-- Clone this repository using <br>`git clone https://github.com/Nisarg851/HumberChatbotBackend.git`
 - Move into project folder
 - run `pip install -r requirements.txt` to install all the required dependencies.
 - run `fastapi run dev` to run the application in developer mode.
